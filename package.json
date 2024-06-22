@@ -39,10 +39,10 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-promise": "^5.1.0",
-    "nodemon": "^2.0.12",
+    "nodemon": "^2.0.22",
     "prettier": "^2.3.0"
   },
   "dependencies": {
-    "async": "^3.2.1"
+    "async": "^3.2.2"
   }
 }
